@@ -1,0 +1,8 @@
+paths:
+  raw: data/raw
+  processed: data/processed
+  results: results
+  logs: logs
+
+run:
+  seed: 42
